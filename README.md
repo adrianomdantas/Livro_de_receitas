@@ -7,4 +7,5 @@ Olá, bem vindo ao meu livro de receitas :book:
 - bolo de cenoura
 - Pão de queijo
 - Pudim
+- Brigadeiro
 
